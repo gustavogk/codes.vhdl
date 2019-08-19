@@ -10,7 +10,7 @@ entity ULA is
       Z : out bit;
       n : out bit
   ) ;
-end ent;
+end ULA;
 
 architecture behavior of ULA is
 
