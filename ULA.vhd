@@ -10,7 +10,6 @@ ULA_Ain : in std_logic_vector(15 downto 0 );
 ULA_Bin : in std_logic_vector(15 downto 0 );
 ULA_Cout : out std_logic_vector(15 downto 0 );
 Sel : in std_logic_vector(1 downto 0);
-clk : in bit;
 Z : out bit;
 n : out bit
 );
