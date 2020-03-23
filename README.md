@@ -1,6 +1,6 @@
 # codes.vhdl
 
-@author Gustavo Assunção 
+@author Gustavo AssunÃ§Ã£o 
 @date 08/11/2019
 
-codígos VHDL da microarquitetura MIC.
+cÃ³digos VHDL da microarquitetura MIC.
